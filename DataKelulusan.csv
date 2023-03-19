@@ -1,0 +1,11 @@
+Nama,Umur,Gaji,KeteranganTetap
+Ikhwan Fila,21,4000,Yes
+Fara Darniva,21,3500,Yes
+Irgi Saputra,21,4000,Yes
+Ikhwan Fila,25,5500,Yes
+Fara Darniva,25,,Yes
+Irgi Saputra,25,5500,
+Ikhwan Fila,,6500,Yes
+Fara Darniva,30,6000,No
+Irgi Saputra,30,6300,Yes
+Ikhwan,32,7600,No
